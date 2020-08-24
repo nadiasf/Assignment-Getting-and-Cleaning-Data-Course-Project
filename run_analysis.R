@@ -1,8 +1,6 @@
 # run_analysis.R
-
 #0. prepare LIBs
 library(reshape2)
-
 
 #1. get dataset from web
 rawDataDir <- "./rawData"
